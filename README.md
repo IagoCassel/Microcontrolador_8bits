@@ -1,4 +1,4 @@
-# Processador_8Bits
+# Microprocessador_8bits
 
 ## Descrição do projeto:
 
