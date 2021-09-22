@@ -27,4 +27,4 @@ A produção desse projeto possibilitou o aprendizado de:
 * Conhecimento das limitações de um sistema embarcado;
 * Reconhecimento de falhas em arquitetura de hardware.
 
-Esse projeto foi feito em conjunto com outros integrantes. Para maior detalhamento acesse o **Relatorio.pdf** desse repositório.
+Esse projeto foi feito em conjunto com outros integrantes. Para maior detalhamento acesse o **Relatorio.pdf** desse repositório. O arquivo compilável que encapsula todo microcontrolador é o **Processor.vhd**.
