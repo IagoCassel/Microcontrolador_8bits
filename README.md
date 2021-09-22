@@ -26,3 +26,5 @@ A produção desse projeto possibilitou o aprendizado de:
 * Produção de instruções em baixo nível;
 * Conhecimento das limitações de um sistema embarcado;
 * Reconhecimento de falhas em arquitetura de hardware.
+
+Esse projeto foi feito em conjunto com outros integrantes. Para maior detalhamento acesse o **Relatorio.pdf** desse repositório.
