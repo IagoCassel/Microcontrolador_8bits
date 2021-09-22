@@ -26,4 +26,7 @@ A produção desse projeto possibilitou o aprendizado de:
 
 ## Organização da máquina de estados no Bloco de Controle:
 
-![Captura de tela de 2021-09-22 12-42-13](https://user-images.githubusercontent.com/48588172/134377026-d4b8ad50-27a0-49ef-b6c0-38ab99ff496b.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48588172/134377026-d4b8ad50-27a0-49ef-b6c0-38ab99ff496b.png" />
+</p>
+
