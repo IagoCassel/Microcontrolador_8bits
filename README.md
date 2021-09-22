@@ -6,6 +6,15 @@ O propósito desse projeto é a produção do hardware de um microcontrolador qu
 
 Esse projeto foi feito em conjunto com outros integrantes. Para maior detalhamento acesse o **Relatorio.pdf** desse repositório. O arquivo compilável que encapsula todo microcontrolador é o **Processor.vhd**.
 
+## Habilidades adquiridas:
+
+A produção desse projeto possibilitou o aprendizado de:
+* Capacidade de liderança na produção de projeto em baixo nível;
+* Arquitetura Harvard para microcontroladores; 
+* Produção de instruções em baixo nível;
+* Conhecimento das limitações de um sistema embarcado;
+* Reconhecimento de falhas em arquitetura de hardware.
+
 ## Tabela de instruções realizáveis pelo processador:
 
 ![Captura de tela de 2021-09-22 12-41-41](https://user-images.githubusercontent.com/48588172/134376829-33a385d8-141c-4974-b772-cc376bab4ff3.png)
@@ -18,13 +27,3 @@ Esse projeto foi feito em conjunto com outros integrantes. Para maior detalhamen
 ## Organização da máquina de estados no Bloco de Controle:
 
 ![Captura de tela de 2021-09-22 12-42-13](https://user-images.githubusercontent.com/48588172/134377026-d4b8ad50-27a0-49ef-b6c0-38ab99ff496b.png)
-
-
-## Habilidades adquiridas:
-
-A produção desse projeto possibilitou o aprendizado de:
-* Capacidade de liderança na produção de projeto em baixo nível;
-* Arquitetura Harvard para microcontroladores; 
-* Produção de instruções em baixo nível;
-* Conhecimento das limitações de um sistema embarcado;
-* Reconhecimento de falhas em arquitetura de hardware.
